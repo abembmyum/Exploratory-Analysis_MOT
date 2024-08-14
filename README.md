@@ -50,28 +50,33 @@ Vehicle test result contains detailed documentation about the dates, area, and e
 
 For this, only the vehicle test result dataset will be used for exploratory analysis and build a dashboard according to it.
 
-Column Name	Description
-Test ID	Unique Identifier for a test
-Vehicle ID	Unique Identifier for a vehicle
-Test Date	Date of Test
-Test Class ID	Class of Vehicle Tested
-Test Type	Type of M.O.T. Test
-Test Result	Test Outcome
-Test Mileage	Mileage recorded at the point of test
-Postcode Area	Test Location
-Make	Vehicle Make
-Model	Vehicle Model
-Color	Vehicle Colour
-Fuel Type	Vehicle Fuel Type
-Cylinder Capacity	Vehicle Cylinder Capacity
-First use Date	Vehicle Date of First Use
+| Column Name	| Description |
+| --- | --- |
+| Test ID	| Unique Identifier for a test|
+| Vehicle ID	| Unique Identifier for a vehicle |
+| Test Date	| Date of Test |
+| Test Class ID	| Class of Vehicle Tested |
+| Test Type	| Type of M.O.T. Test |
+| Test Result	| Test Outcome |
+| Test Mileage	| Mileage recorded at the point of test |
+| Postcode Area	| Test Location |
+| Make |	Vehicle Make |
+| Model	| Vehicle Model |
+| Color	| Vehicle Colour |
+| Fuel Type	| Vehicle Fuel Type |
+| Cylinder Capacity	| Vehicle Cylinder Capacity |
+| First use Date	| Vehicle Date of First Use |
+
 Table 1. Test Vehicle Result
-Column Name	Description
-Test ID	Unique Identifier for a test
-RfR ID	Reason for Rejection ID
-RfR Type	Reason for Rejection Type
-Location ID	Failure Location ID
-D Mark	Dangerous Item Marker
+
+| Column Name	 | Description |
+| --- | --- |
+| Test ID	| Unique Identifier for a test |
+| RfR ID	| Reason for Rejection ID |
+| RfR Type	| Reason for Rejection Type |
+| Location ID	| Failure Location ID |
+| D Mark	| Dangerous Item Marker |
+
 Table 2. Vehicle test item
 
 # IV.  ARCHITECTURE
